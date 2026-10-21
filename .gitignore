@@ -13,3 +13,8 @@
 .externalNativeBuild
 .cxx
 local.properties
+
+# local tooling
+/git_phase.sh
+/setup_structure.sh
+/.idea/
